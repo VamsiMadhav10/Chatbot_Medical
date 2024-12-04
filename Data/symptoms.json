@@ -1,0 +1,71 @@
+{
+    "Types of Glaucoma": {
+      "Primary Open-Angle Glaucoma": {
+        "Description": "The most common type of glaucoma. The trabecular meshwork looks fine, but fluid doesn’t flow out the way it should. This typically manifests as slow, painless damage to the optic nerve due to an ineffective drainage system in the eye.",
+        "Symptoms": [
+          "Gradual narrowing of peripheral vision, leading to tunnel vision",
+          "No early pain or discomfort, symptoms appear only in later stages",
+          "Difficulty adjusting to low-light environments"
+        ]
+      },
+      "Angle-Closure Glaucoma": {
+        "Description": "More common in Asia. This type occurs when the drain space between the iris and cornea becomes too narrow, causing a sudden buildup of pressure. It is also linked to farsightedness and cataracts.",
+        "Symptoms": [
+          "Sudden visual impairment with a 'foggy' feeling in the eye",
+          "Severe eye discomfort or headache behind the eye",
+          "Rainbow-colored halos around lights",
+          "Redness and sharp or stabbing eye pain"
+        ]
+      },
+      "Secondary Open-Angle Glaucoma": {
+        "Description": "Caused by another condition like cataracts or diabetes, leading to added pressure in the eye. Inflammation inside the eye (uveitis) can cause symptoms like halos or light sensitivity.",
+        "Symptoms": [
+          "Increased light sensitivity in bright environments",
+          "Frequent flashes or floaters in vision",
+          "Gradual dimming or cloudiness of vision"
+        ]
+      },
+      "Normal-Tension Glaucoma": {
+        "Description": "Damage to the optic nerve and blind spots in vision can occur, even though eye pressure is within the average range. Some experts consider it a form of open-angle glaucoma.",
+        "Symptoms": [
+          "Subtle, progressive decrease in visual contrast sensitivity",
+          "Peripheral vision loss, noticed more in low light",
+          "Difficulty focusing on distant objects"
+        ]
+      },
+      "Pigmentary Glaucoma": {
+        "Description": "Tiny bits of pigment from the iris get into the fluid inside the eye and clog the drainage canals.",
+        "Symptoms": [
+          "Blurred vision, especially during or after physical exertion",
+          "Rainbow-colored halos around lights during activity",
+          "Reduced night vision, making it difficult to see in low light"
+        ]
+      },
+      "Pseudoexfoliation Glaucoma": {
+        "Description": "Characterized by flaky material in the anterior chamber of the eye that collects in the angle. This material can clog the trabecular meshwork, leading to increased resistance to aqueous outflow and elevated intraocular pressure (IOP).",
+        "Symptoms": [
+          "Sudden decrease in vision after heavy lifting or physical exertion",
+          "Feeling of grittiness or foreign body sensation in the eye",
+          "Increased sensitivity to light"
+        ]
+      },
+      "Steroid-Induced Glaucoma": {
+        "Description": "Occurs in susceptible individuals undergoing cortisone therapy. Glucocorticoids can increase outflow resistance by upregulating receptors on cells within the trabecular meshwork.",
+        "Symptoms": [
+          "Gradual clouding of vision with steroid use",
+          "Frequent visual disturbances",
+          "Mild but persistent eye discomfort"
+        ]
+      },
+      "Acute Closed-or Narrow-Angle Glaucoma": {
+        "Description": "Acute closed-angle glaucoma is a medical emergency, often characterized by a rapid increase in intraocular pressure due to blockage in the drainage angle of the eye. This leads to severe symptoms and requires immediate treatment.",
+        "Symptoms": [
+          "Sudden, severe throbbing pain in the eye",
+          "Extremely blurry vision with a 'halo' effect around lights",
+          "Redness and intense eye pressure",
+          "Nausea and vomiting due to pain"
+        ]
+      }
+    }
+  }
+  

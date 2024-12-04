@@ -1,0 +1,34 @@
+{
+    "Types of Glaucoma": {
+        "Primary Open-Angle Glaucoma": {
+          "Description": "The most common type of glaucoma. The trabecular meshwork looks fine, but fluid doesn’t flow out the way it should. This typically manifests as slow, painless damage to the optic nerve due to an ineffective drainage system in the eye."
+        },
+        "Angle-Closure Glaucoma": {
+          "Description": "This type occurs when the drain space between the iris and cornea becomes too narrow, causing a sudden buildup of pressure. It is also linked to farsightedness and cataracts."
+        },
+        "Secondary Open-Angle Glaucoma": {
+          "Description": "Caused by another condition like cataracts or diabetes, leading to added pressure in the eye. Inflammation inside the eye (uveitis) can cause symptoms like halos or light sensitivity."
+        },
+        "Normal-Tension Glaucoma": {
+          "Description": "Damage to the optic nerve and blind spots in vision can occur, even though eye pressure is within the average range. Some experts consider it a form of open-angle glaucoma."
+        },
+        "Pigmentary Glaucoma": {
+          "Description": "Tiny bits of pigment from the iris get into the fluid inside the eye and clog the drainage canals."
+        },
+        "Pseudoexfoliation Glaucoma": {
+          "Description": "Characterized by flaky material in the anterior chamber of the eye that collects in the angle. This material can clog the trabecular meshwork, leading to increased resistance to aqueous outflow and elevated intraocular pressure (IOP)."
+        },
+        "Steroid-Induced Glaucoma": {
+          "Description": "Occurs in susceptible individuals undergoing cortisone therapy. Glucocorticoids can increase outflow resistance by upregulating receptors on cells within the trabecular meshwork."
+        },
+        "Acute Closed-or Narrow-Angle Glaucoma": {
+          "Description": "Acute closed-angle glaucoma is a medical emergency, often characterized by a rapid increase in intraocular pressure due to blockage in the drainage angle of the eye. This leads to severe symptoms and requires immediate treatment."
+        },
+        "Open-Angle Glaucoma": {
+          "Description": "Open-angle glaucoma is the most common form of glaucoma, typically developing slowly over time with minimal symptoms until significant vision loss occurs. The condition causes gradual damage to the optic nerve, often leading to loss of peripheral vision."
+        },
+        "Normal Tension Glaucoma": {
+          "Description": "Normal tension glaucoma occurs when intraocular pressure remains within the normal range, but the optic nerve is still damaged. The exact cause is unclear, but it may be related to poor blood flow to the optic nerve."
+        }
+    }
+}

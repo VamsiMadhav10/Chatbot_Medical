@@ -1,0 +1,95 @@
+{
+    "Prostaglandin Analogs": {
+        "used_when": "First-line choice for most patients with mild-to-moderate elevated IOP",
+        "action": "Increases aqueous humor outflow through the uveoscleral pathway",
+        "efficacy_potency": "High; often lowers IOP by 25-30%",
+        "examples": ["Bimatoprost (Lumigan)", "Latanoprost (Xalatan)", "Tafluprost (Zioptan)", "Travoprost (Travatan Z)"],
+        "why_chosen": "High efficacy, once-daily dosing, minimal systemic side effects",
+        "limitations": "May cause changes in iris color, not ideal for patients with a history of ocular inflammation",
+        "side_effects": [
+            "Changes in eyelid or iris color",
+            "Lengthening of eyelashes",
+            "Blurred vision",
+            "Stinging",
+            "Eye redness",
+            "Itching"
+        ]
+    },
+    "Beta Blockers": {
+        "used_when": "Second-line or adjunct when additional IOP reduction is needed",
+        "action": "Reduces production of aqueous humor",
+        "efficacy_potency": "Moderate; usually lowers IOP by 20-25%",
+        "examples": ["Betaxolol (Betoptic)", "Timolol (Betimol, Timoptic)"],
+        "why_chosen": "Effective, affordable, rapid action",
+        "limitations": "Not suitable for patients with respiratory or cardiac issues, twice-daily dosing often needed",
+        "side_effects": [
+            "Low blood pressure",
+            "Difficulty breathing",
+            "Slower heart rate",
+            "Lower sex drive",
+            "Depression",
+            "Fatigue"
+        ]
+    },
+    "Cholinergic Agents": {
+        "used_when": "Third-line or for cases with narrow-angle glaucoma",
+        "action": "Increases aqueous outflow by contracting the ciliary muscle",
+        "efficacy_potency": "Moderate; may lower IOP by 15-25%",
+        "examples": ["Pilocarpine", "Carbachol"],
+        "why_chosen": "Unique mechanism to increase aqueous outflow",
+        "limitations": "Causes pupil constriction and blurry vision, affecting night vision",
+        "side_effects": [
+            "Blurred or dim vision",
+            "Eye pain",
+            "Headaches",
+            "Brow ache",
+            "Pupil constriction (miosis), impacting night vision",
+            "Potentially increased risk of retinal detachment"
+        ]
+    },
+    "Alpha-Adrenergic Agonists": {
+        "used_when": "Adjunct therapy, or for patients who cannot use beta blockers",
+        "action": "Decreases aqueous humor production and increases outflow slightly",
+        "efficacy_potency": "Moderate; reduces IOP by 20-25%",
+        "examples": ["Apraclonidine (Iopodine)", "Brimonidine (Alphagan P)"],
+        "why_chosen": "Dual action (reduces production and increases outflow), option for those with respiratory or heart issues",
+        "limitations": "Can cause dry mouth, fatigue, and CNS side effects; requires twice-daily dosing",
+        "side_effects": [
+            "Burning or stinging",
+            "High blood pressure",
+            "Fatigue",
+            "Headache",
+            "Drowsiness",
+            "Irregular heart rate",
+            "Dry mouth"
+        ]
+    },
+    "Carbonic Anhydrase Inhibitors": {
+        "used_when": "Third-line or for acute IOP reduction, e.g., acute angle-closure",
+        "action": "Reduces aqueous humor production by inhibiting enzyme carbonic anhydrase",
+        "efficacy_potency": "Moderate; lowers IOP by 15-20%",
+        "examples": ["Brinzolamide (Azopt)", "Dorzolamide (Trusopt)"],
+        "why_chosen": "Strong IOP reduction, particularly effective in emergencies",
+        "limitations": "Systemic side effects (especially oral), multiple doses needed if topical",
+        "side_effects": [
+            "Stinging and burning eyes",
+            "Bitter taste",
+            "Blurred vision",
+            "Eye redness or discomfort"
+        ]
+    },
+    "Combined Medications": {
+        "used_when": "Advanced glaucoma cases needing robust IOP control, to simplify dosing",
+        "action": "Varies (usually combines two actions, e.g., reduce production + increase outflow)",
+        "efficacy_potency": "High; combines the effectiveness of two drugs for greater IOP reduction",
+        "examples": ["Timolol and dorzolamide (Cosopt)", "Brimonidine and timolol (Combigan)", "Brimonidine and brinzolamide (Simbrinza)"],
+        "why_chosen": "Increases adherence with fewer drops needed, combines effects of two agents",
+        "limitations": "Higher cost, may cause combined side effects, best suited for those tolerating both active drugs",
+        "side_effects": [
+            "Combination of side effects from both medications in the formulation",
+            "Eye redness or discomfort",
+            "Dry mouth and fatigue (if alpha-adrenergic agent is present)",
+            "Possible allergic reactions"
+        ]
+    }
+}

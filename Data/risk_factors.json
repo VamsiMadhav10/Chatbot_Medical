@@ -1,0 +1,28 @@
+{
+    "Glaucoma Risk Factors": {
+      "General Information": {
+        "Description": "Glaucoma mostly affects adults older than 40, but young adults, children, and even infants can have it. African Americans tend to get it more often, at a younger age, and with more vision loss."
+      },
+      "Risk Factors": [
+        "African American, Irish, Russian, Japanese, Hispanic, Inuit, or Scandinavian descent",
+        "Age over 40 years old",
+        "Have a family history of glaucoma",
+        "Are nearsighted or farsighted",
+        "Have poor vision",
+        "Have diabetes",
+        "Take certain steroid medications such as prednisone",
+        "Take certain drugs for bladder control or seizures or some over-the-counter cold remedies",
+        "Have had an injury to your eye or eyes",
+        "Have corneas that are thinner than usual",
+        "Have high blood pressure, heart disease, diabetes, or sickle cell anemia",
+        "Have high eye pressure"
+      ],
+      "Higher Risk": {
+        "Description": "Your risk is higher if one has a first-degree only relative with the condition. That means one could get glaucoma if their mother, father, or full sister or brother has it."
+      },
+      "Genetic Factors": {
+        "Description": "Scientists have identified mutations, or changes, in certain genes that can lead to glaucoma."
+      }
+    }
+  }
+  

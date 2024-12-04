@@ -1,0 +1,64 @@
+{
+    "Glaucoma Treatment": {
+      "Overview": "Open-angle glaucoma is most often treated with combinations of eyedrops, laser trabeculoplasty, and microsurgery. Doctors tend to start with medications, but early laser surgery or microsurgery could work better for some people.",
+      "Glaucoma Medications": {
+        "Description": "Glaucoma eyedrops lower the creation of fluid in your eye or increase its flow out, lowering eye pressure. Side effects can include allergies, redness, stinging, blurred vision, and irritated eyes. Some glaucoma drugs may affect your heart and lungs. Be sure to tell your doctor about any other medical problems or medications you take.",
+        "Types": {
+          "Eyedrops": {
+            "Action": "Lower fluid creation or increase fluid drainage to lower eye pressure.",
+            "SideEffects": [
+              "Allergies",
+              "Redness",
+              "Stinging",
+              "Blurred vision",
+              "Irritated eyes"
+            ]
+          },
+          "OralMedication": {
+            "Description": "Oral medications like beta-blockers or carbonic anhydrase inhibitors can improve drainage or slow fluid creation in the eye.",
+            "Examples": [
+              "Beta-blockers",
+              "Carbonic anhydrase inhibitors"
+            ]
+          }
+        }
+      },
+      "Glaucoma Surgery": {
+        "Overview": "Glaucoma surgeries include laser procedures, microsurgery, and minimally invasive surgeries. These procedures help lower eye pressure by improving fluid drainage.",
+        "Types": {
+          "LaserSurgery": {
+            "Description": "Laser surgery slightly increases the flow of fluid from your eye or can stop fluid blockage, especially for open-angle and angle-closure glaucoma.",
+            "Procedures": [
+              {
+                "Name": "Trabeculoplasty",
+                "Action": "Opens the drainage area."
+              },
+              {
+                "Name": "Iridotomy",
+                "Action": "Makes a tiny hole in the iris to allow fluid flow."
+              },
+              {
+                "Name": "Cyclophotocoagulation",
+                "Action": "Treats areas of the middle layer of the eye to lower fluid production."
+              }
+            ]
+          },
+          "Microsurgery": {
+            "Description": "In trabeculectomy, a new channel is created to drain fluid and reduce eye pressure. This may require multiple procedures and can have complications like infection or vision loss.",
+            "Procedure": "Trabeculectomy"
+          },
+          "MinimallyInvasiveSurgery": {
+            "Description": "Minimally invasive glaucoma surgeries are newer, require smaller openings, and generally involve faster recovery. They often can be combined with other surgeries like cataract surgery, but may not lower eye pressure as much as traditional surgeries.",
+            "Advantages": [
+              "Faster recovery",
+              "Less invasive"
+            ],
+            "Limitations": [
+              "Lower pressure reduction than traditional surgeries"
+            ]
+          }
+        }
+      }
+    }
+  }
+  
